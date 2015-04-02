@@ -1,1 +1,1 @@
-# Sample code of mySurvey mobile app
+Sample code of mySurvey mobile app
